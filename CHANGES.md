@@ -6,6 +6,7 @@ Changes
 
 ### Unreleased
 
+* 2025-07-09 - Improvement: Improve the smart menu items icon list by replacing the custom icon picker with a Moodle autocomplete widget, by adding the icon names to the list and by sorting the list, helps to resolve #493
 * 2025-07-08 - Feature: Add a dedicated divider menu item type for smart menus, resolves #453.
                Please note: Existing dividers created using heading type with hash signs will be automatically converted to the new divider type during this version update.
 * 2025-07-07 - Bugfix: SCSS Snippets overview page did not show previews of uploaded snippets, resolves #993
