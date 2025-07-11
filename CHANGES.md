@@ -6,6 +6,8 @@ Changes
 
 ### Unreleased
 
+* 2025-07-11 - Improvement: Allow all (solid and brands) FontAwesome icons for smart menu items, resolves #493
+               Please note: Smart menu item icons are now distinguished if they come from Moodle core or from FontAwesome. Please have a look at the help icon for smart menu item icons if you are interested in the details.
 * 2025-07-09 - Improvement: Improve the smart menu items icon list by replacing the custom icon picker with a Moodle autocomplete widget, by adding the icon names to the list and by sorting the list, helps to resolve #493
 * 2025-07-08 - Feature: Add a dedicated divider menu item type for smart menus, resolves #453.
                Please note: Existing dividers created using heading type with hash signs will be automatically converted to the new divider type during this version update.
